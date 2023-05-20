@@ -15,6 +15,7 @@
 }
 
 .parte1 {
+    padding: 1rem;
     width: 250px;
     height: 380px;
     border-radius: 10px;
@@ -44,7 +45,7 @@
 
 
 .parte1 p {
-    margin-top: .5rem;
+    margin-top: 1rem;
     text-align: center;
 }
 
