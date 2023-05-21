@@ -4,7 +4,6 @@ let isLiked = false;
 
 likeButton.addEventListener('click', () => {
     isLiked = !isLiked;
-    likeCount.textContent = counter;
 
     if (isLiked) {
         likeButton.style.borderColor = 'red';
